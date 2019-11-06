@@ -135,7 +135,7 @@ body {
   cursor: pointer;
 }
 .content-wrap .play-control .like-btn {
-  background-image: url("/img/icon-like.jpg");
+  background-image: url("https://chengongwei.github.io/musicplayer/img/icon-like.jpg");
 }
 .content-wrap .play-control .like-btn.liked {
   background-image: url("/img/icon-like-solid.jpg");
