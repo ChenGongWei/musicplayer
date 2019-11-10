@@ -135,25 +135,25 @@ body {
   cursor: pointer;
 }
 .content-wrap .play-control .like-btn {
-  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-like.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-like.png");
 }
 .content-wrap .play-control .like-btn.liked {
-  background-image: url("/img/icon-like-solid.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-like-solid.png");
 }
 .content-wrap .play-control .prev-btn {
-  background-image: url("/img/icon-prev.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-prev.png");
 }
 .content-wrap .play-control .play-btn {
-  background-image: url("/img/icon-play.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-play.png");
 }
 .content-wrap .play-control .play-btn.playing {
-  background-image: url("/img/icon-pause.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-pause.png");
 }
 .content-wrap .play-control .next-btn {
-  background-image: url("/img/icon-next.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-next.png");
 }
 .content-wrap .play-control .list-btn {
-  background-image: url("/img/icon-list.jpg");
+  background-image: url("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/img/icon-list.png");
 }
 .play-list {
   position: fixed;
