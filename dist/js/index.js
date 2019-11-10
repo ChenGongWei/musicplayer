@@ -99,4 +99,4 @@ function successedFn(data){ //数据获取成功的回调函数
     $scope.trigger("play:change", [0]);
     playlist.render(data);
 }
-getData("/mock/data.json");
+getData("https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/mock/data.json");
