@@ -1,6 +1,6 @@
 [
     {
-        "image" : "/source/song_1.jpg",
+        "image" : "https://raw.githubusercontent.com/ChenGongWei/musicplayer/master/source/song_1.jpg",
         "audio" : "/source/song_1.mp3",
         "song" : "丑八怪",
         "album" : "意外",
