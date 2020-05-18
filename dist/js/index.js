@@ -1,3 +1,4 @@
+console.log("success");
 var root = window.player;  //获取含各个功能模块的对象
 var $ = window.Zepto;  //Zepto相当于精简版的jQuery
 var $scope = $(document.body);  //全局变量
