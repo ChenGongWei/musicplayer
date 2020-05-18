@@ -6,6 +6,7 @@
         var img = new Image();
         img.onload = function(){
             $scope.find(".song-img img").attr("src", src);
+            console.log(src);
             root.blurImg(img, $scope);  //背景为高斯模糊后的歌曲图片
         }
         img.src = src;
